@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'Lato';
+	src: url('./Lato-Thin.woff') format('woff');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('Lato-Hairline.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./Lato-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraSans';
+	src: url('./FiraSans-ExtraLight.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraSans';
+	src: url('FiraSans-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
